@@ -8,11 +8,29 @@ We are interested in changes like:
 
 1/ new quests;
 
+- new story, the old hero died and you are his succesor;
+
+- new/old NPC's - for example you can get the quests in Gipath from Estera and Babur;
+
+- chain story'ish quests - /if we can access source code/ - you will get the title for example %rareEnemyName Slayer.hero.name% which will allow you to get more difficult and rewarding quests; 
+
+- grind quests for hunting/making money and searching for crafting materials;
+
+- higher exp quests for those who want to learn by facing the death;
+
+
 2/ new enemies;
 
 3/ new items;
 
 4/ new game mechanics;
+
+- levels mechanics, when you get certain amount of exp you are at certain lvl, players with high levels can't help low level players to cheat;
+
+- skill inc mechanics - like in old Tibia you will be able to skill your weapons and magic;
+
+- new defense mechanics - no more standing still with max def;
+
 
 5/ new maps;
 
