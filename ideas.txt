@@ -1,6 +1,27 @@
 @Copyright by MateWojno, mateusz.k.wojno@gmail.com
 ==================================================
 
-Experimental version
-changes:
-1/
+Experimental version $ 
+Evil Islands Multi Player Vanilla-Like Mod
+
+We are interested in changes like:
+
+1/ new quests;
+
+2/ new enemies;
+
+3/ new items;
+
+4/ new game mechanics;
+
+5/ new maps;
+
+6/ we need help with decompiling exe files;
+
+7/ read the source code in c#;
+
+8/ making new textures and models;
+
+9/ gameplay balance;
+
+10/ gameplay testing and bug report;
