@@ -1,1 +1,6 @@
-.
+@Copyright by MateWojno, mateusz.k.wojno@gmail.com
+==================================================
+
+Experimental version
+changes:
+1/
