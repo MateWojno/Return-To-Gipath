@@ -10,8 +10,7 @@ using UnityEngine;
 private  class Code : MonoBehaviour
 
 
-
-public void Quests() //container of data & some ideas
+private void Quests() //container of data & some ideas
 {
     public bool questEligibility; //check for player lvl and finished quests in order to give specific quest
     public bool questCheckTitle; //self explanatory
@@ -37,13 +36,13 @@ public void Quests() //container of data & some ideas
 
 }
 
-public void ReadDatabase()
+void ReadDatabase()
 {
     //reads data form database and checks with Quests method
 }
 
 
-public void LOD()
+void LOD()
 {
     //level of difficulty
     public int questMapSeed; //seed for map generator to generate some differences in those maps;
