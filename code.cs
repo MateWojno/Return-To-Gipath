@@ -14,6 +14,8 @@ class Code : MonoBehaviour
 
 private void Quests() //container of data & some ideas
 {
+
+}
     public bool questEligibility; //check for player lvl and finished quests in order to give specific quest
     public bool questCheckTitle; //self explanatory
     public int questChoosenPath; //player may follow diff paths
@@ -48,11 +50,11 @@ void ReadDatabase()
 
 void LOD()
 {
+}
+
     //level of difficulty
     public int questMapSeed; //seed for map generator to generate some differences in those maps;
     public bool questMapBuff; //is map buffed?
     public float questDropInc; //SE - self explanatory
     public float questExpInc; //SE
-}
-}
 }
