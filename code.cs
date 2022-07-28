@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 using UnityEngine;
 //1 what those extensions are?
 
-private  class Code : MonoBehaviour
-
+namespace Code
+{
+class Code : MonoBehaviour
+{
 
 private void Quests() //container of data & some ideas
 {
@@ -36,6 +38,8 @@ private void Quests() //container of data & some ideas
 
 }
 
+
+
 void ReadDatabase()
 {
     //reads data form database and checks with Quests method
@@ -49,4 +53,6 @@ void LOD()
     public bool questMapBuff; //is map buffed?
     public float questDropInc; //SE - self explanatory
     public float questExpInc; //SE
+}
+}
 }
