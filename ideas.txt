@@ -13,6 +13,7 @@ We are interested in changes like:
 $$$$$$$$$$$$$$
 1/ new quests;
 ==============
+?
 
 - new story, the old hero died and you are his succesor;
 
