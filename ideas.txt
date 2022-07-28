@@ -8,45 +8,100 @@
             Evil Islands Multi Player Vanilla-Like Mod
             ==========================================
 
-We are interested in changes like:
+To-Do List:
+
+$$$$$$$$$$$$
+1/ new maps;
+============
+[ADDITIONAL MAP IDEAS]              > Add unused maps singeplayer maps back into multiplayer
+
 
 $$$$$$$$$$$$$$
-1/ new quests;
+2/ new quests;
 ==============
 
 
 - new story, the old hero died and you are his succesor;
+[SIDENOTE] > Zak the old hero has lore in Allods Online, apparently he transformed into a giant octopus-monster based on the ones in Ingos. He is the main boss in the undead city raid in Allods Online. So I think the new story could maybe be focussed on the "old hero" missing?
 
 - new/old NPC's - for example you can get the quests in Gipath from Estera and Babur;
+[SIDENOTE] > Love this idea, maybe we could seperate them into vanilla quests and new ones, so the player has an easy overview?
 
 - chain story'ish quests - /if we can access source code/ - you will get the title for example %rareEnemyName Slayer.hero.name% which will allow you to get more difficult and rewarding quests; 
 
 - grind quests for hunting/making money and searching for crafting materials;
+[SIDENOTE] > For an easy divide quests should be focussed around 3 rewards: exp/money/uniqueloot. The maps on the other hand should be focussed towards certain materials.
 
 - higher exp quests for those who want to learn by facing the death; (LOD system)
-
-
-$$$$$$$$$$$$$$$
-2/ new enemies;
-===============
-
-- rare and unique enemies with small or big packs;
-
-- bosses;
-
-- respawning friendly critters which drop resorces - hunting-like expirience
 
 
 $$$$$$$$$$$$$
 3/ new items;
 =============
+[ADDITIONAL ITEM IDEAS]             > Spellsling (melee weapons converted so it only does damage with the spell in slot) 
+                                    > Additional potions that grant magic resistances
+                                    > Wands that spawn a familiar/pet (Classic mod has this feature in a skill, maybe we could make it item based)
+                                    > Elemental materials - Fire/Frost/Etc weapons
+                                    > GIPATH - Crossbows
+                                    > INGOS - Crossbows
+                                    > SUSLANGER - Bows
+                                    > CAVE - Bows
 
+
+$$$$$$$$$$$$$$$
+4/ new enemies;
+===============
+
+- rare and unique enemies with small or big packs;
+[ADDITIONAL ENEMY IDEAS]            > GIPATH - Decayed Skeleton (reskin skeleton model - overgrown with moss)
+                                    > GIPATH - Black Panther (Really tough semi-boss)
+                                    > INGOS - The frost bitten (people who died of frost/reskin zombie model)
+                                    > INGOS - Windwalker (reskin cave-shadow model)
+                                    > INGOS - Draugr (reskin orc model)
+                                    > INGOS - Frost giant Unusually tall human model with blue-ish hue as skin color (reskin human model)
+                                    > INGOS - Frostbitten skulls (reskin skeleton making the entire body transparant except for skulls making them float) 
+                                    > SUSLANGER - Desert Lizard (brown reskin lizard model)
+                                    > SUSLANGER - Black Lizard (black reskin lizard model)
+
+                                    
+- bosses;
+[ADDITIONAL BOSS IDEAS]             > GIPATH - Pack of elder boars: 3 big boars that have a unique boar skin
+                                    > GIPATH - Unique goblin duo spear + sling (reskin of "GoGo" model)
+                                    > GIPATH - Unique Ogres
+                                    
+- respawning friendly critters which drop resources - hunting-like experience
+[ADDITIONAL CRITTER IDEAS]          > GIPATH - *Hard to implement* Flying insect (reskin of the bat model perhaps we can make the flying animation faster)
+                                    > GIPATH - Red fox (reskin of the dog model)
+                                    > INGOS - Snow fox (reskin of the dog model)
+                                    > INGOS - Add more cows as life stock in maps
+                                    > INGOS - Non-hostile dryads packs
+                                    > SUSLANGER - Trade caravan (friendly humans roaming around with a horse - reskin horse carrying goods)
+                                    > SUSLANGER - Zebra (horse reskin)
+
+
+$$$$$$$$$$$$$$$$$$$$
+4/ gameplay balance;
+====================
+
+[ADDITIONAL BALANCE IDEAS]
+
+- Daggers - Adding more crit chance / higher crit
+- Hammers/maces - More complexity (making them viable for battlemage builds)
+- Spears - Highest damage but lowest defence
+- Axes - Most balanced damage/defence output
+- Swords - Highest defence
+- More difference between light armor and heavy armor weight
+- Cloth/hide armor with high complexity for spell slot
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+5/ gameplay testing and bug report;
+===================================
 
 
 $$$$$$$$$$$$$$$$$$$$$$
-4/ new game mechanics;
+6/ new game mechanics;
 ======================
-
 
 - levels mechanics, when you get certain amount of exp you are at certain lvl, players with high levels can't help low level players to cheat;
 
@@ -60,50 +115,38 @@ $$$$$$$$$$$$$$$$$$$$$$
 
 - Procedural Map and Enemy Creatures placement Generator - using seeds of LOD;
 
-
-$$$$$$$$$$$$
-5/ new maps;
-============
-
 - changed Gipath MP Village map to include more NPC - you can access new areas of this expanded map if you have the required title or item, this will allow to track progress of a player inside MP;
 
 - trade map or Gipath MP Village map expansion - place to trade between players;
 
+[ADDITIONAL MECHANICS IDEAS]
+
+- Feature fast time in multiplayer
+
+- Summoning allies (classic mod has this feature)
 
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-6/ we need help with decompiling exe files;
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+7/ gameplay testing and bug report;
+===================================
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X/ we need help with decompiling exe files;
 ===========================================
 
 - ghidra, ilspy etc.
 
 
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-7/ read the source code in c#;
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X/ read the source code in c#;
 ==============================
 
 - or somebody who are familiar with c++;
 
 
-
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-8/ making new textures and models;
-==================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X/ remaking old textures and models;
+====================================
 
 - polishing game look but at low costs;
-
-
-
-
-$$$$$$$$$$$$$$$$$$$$
-9/ gameplay balance;
-====================
-
-
-
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-10/ gameplay testing and bug report;
-====================================
