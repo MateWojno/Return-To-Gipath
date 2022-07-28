@@ -1,8 +1,12 @@
-@Copyright by MateWojno, mateusz.k.wojno@gmail.com
-==================================================
+            ==================================================
+            ==================================================
+            @Copyright by MateWojno, mateusz.k.wojno@gmail.com
+            ==================================================
+            ==================================================
 
-Experimental version $ 
-Evil Islands Multi Player Vanilla-Like Mod
+            Experimental version $$$$$$$$$$$$$$$$$$$$$ 
+            Evil Islands Multi Player Vanilla-Like Mod
+            ==========================================
 
 We are interested in changes like:
 
@@ -18,7 +22,7 @@ $$$$$$$$$$$$$$
 
 - grind quests for hunting/making money and searching for crafting materials;
 
-- higher exp quests for those who want to learn by facing the death;
+- higher exp quests for those who want to learn by facing the death; (LOD system)
 
 
 $$$$$$$$$$$$$$$
@@ -26,15 +30,22 @@ $$$$$$$$$$$$$$$
 ===============
 
 - rare and unique enemies with small or big packs;
+
 - bosses;
-- respawning friendly critters which drop resorces;
+
+- respawning friendly critters which drop resorces - hunting-like expirience
+
 
 $$$$$$$$$$$$$
 3/ new items;
+=============
+
+
 
 $$$$$$$$$$$$$$$$$$$$$$
 4/ new game mechanics;
 ======================
+
 
 - levels mechanics, when you get certain amount of exp you are at certain lvl, players with high levels can't help low level players to cheat;
 
@@ -42,9 +53,21 @@ $$$$$$$$$$$$$$$$$$$$$$
 
 - new defense mechanics - no more standing still with max def;
 
+- LOD - level of difficulty, which allow to scale xp/drop and also difficulty of the game from 0.1 to 100;
+
+- vault system - you can access patterns, materials and gold across all of your MP characters;
+
+- Procedural Map and Enemy Creatures placement Generator - using seeds of LOD;
+
+
 $$$$$$$$$$$$
 5/ new maps;
 ============
+
+- changed Gipath MP Village map to include more NPC - you can access new areas of this expanded map if you have the required title or item, this will allow to track progress of a player inside MP;
+
+- trade map or Gipath MP Village map expansion - place to trade between players;
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -53,19 +76,31 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 - ghidra, ilspy etc.
 
+
+
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 7/ read the source code in c#;
 ==============================
+
+- or somebody who are familiar with c++;
+
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 8/ making new textures and models;
 ==================================
 
+- polishing game look but at low costs;
+
+
+
 
 $$$$$$$$$$$$$$$$$$$$
 9/ gameplay balance;
 ====================
+
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
