@@ -6,7 +6,9 @@ Evil Islands Multi Player Vanilla-Like Mod
 
 We are interested in changes like:
 
+$$$$$$$$$$$$$$
 1/ new quests;
+==============
 
 - new story, the old hero died and you are his succesor;
 
@@ -19,11 +21,20 @@ We are interested in changes like:
 - higher exp quests for those who want to learn by facing the death;
 
 
+$$$$$$$$$$$$$$$
 2/ new enemies;
+===============
 
+- rare and unique enemies with small or big packs;
+- bosses;
+- respawning friendly critters which drop resorces;
+
+$$$$$$$$$$$$$
 3/ new items;
 
+$$$$$$$$$$$$$$$$$$$$$$
 4/ new game mechanics;
+======================
 
 - levels mechanics, when you get certain amount of exp you are at certain lvl, players with high levels can't help low level players to cheat;
 
@@ -31,15 +42,32 @@ We are interested in changes like:
 
 - new defense mechanics - no more standing still with max def;
 
-
+$$$$$$$$$$$$
 5/ new maps;
+============
 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 6/ we need help with decompiling exe files;
+===========================================
 
+- ghidra, ilspy etc.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 7/ read the source code in c#;
+==============================
 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 8/ making new textures and models;
+==================================
 
+
+$$$$$$$$$$$$$$$$$$$$
 9/ gameplay balance;
+====================
 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 10/ gameplay testing and bug report;
+====================================
