@@ -5,11 +5,11 @@ You can help me develop interesting ideas to grow Evil Islands Multi Player Vani
 
 We are interested in changes like:
 
-1/ new quests;
+<strike>1/ new quests;</strike>
 
 2/ new enemies;
 
-3/ new items;
+<strike>3/ new items;</strike>
 
 4/ new game mechanics;
 
@@ -17,9 +17,9 @@ We are interested in changes like:
 
 6/ we need help with decompiling exe files;
 
-7/ read the source code in c#;
+7/ read the source code in C++;
 
-8/ making new textures and models;
+<strike>8/ making new textures and models;</strike>
 
 9/ gameplay balance;
 
