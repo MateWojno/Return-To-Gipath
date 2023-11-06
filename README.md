@@ -5,7 +5,7 @@
 Experimental version
 --------------------
 
-This is the Evil Islands Multi Player Vanilla-Like Mod, an experimental project created by MateWojno (mateusz.k.wojno@gmail.com).
+This is the Evil Islands Multi Player Vanilla-Like Mod, an experimental project created by MateWojno (mateusz.k.wojno@gmail.com) and Formcaster.
 
 ## Table of Contents
 
